@@ -1,27 +1,29 @@
-# Hi 👋 I'm Jacky Zhang
-
-🚀 AI / Backend Developer
-🌏 Based in Seoul
-💡 Focused on **LLM Applications · Spring AI · RAG Systems**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Spring+AI+Developer;LLM+Application+Builder;RAG+Systems+Developer&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🧠 About Me
+# 🧠 System Info
 
-* 🔭 Building **AI-powered applications**
-* ⚡ Backend developer specialized in **Java / Spring Boot**
-* 🤖 Exploring **LLM, RAG, AI Agents**
-* 🌱 Currently learning **AI system architecture**
+```bash
+name: Jacky Zhang
+role: AI Engineer / Java Backend Developer
+location: Shenzhen
+github: https://github.com/Jacky-ZJQ
+focus: LLM Applications
+stack: Java | Spring Boot | Vue3 | LLM | RAG
+```
 
 ---
 
-## 🚀 Tech Stack
+# ⚡ Tech Stack
 
 ### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
+![MyBatis](https://img.shields.io/badge/MyBatis-black?style=for-the-badge)
 
 ### Frontend
 
@@ -29,18 +31,21 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-### AI
+### AI / LLM
 
-![SpringAI](https://img.shields.io/badge/SpringAI-6DB33F?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge)
+![SpringAI](https://img.shields.io/badge/SpringAI-green?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-System-blue?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-green?style=for-the-badge)
 
+🌐 Project Website
+https://jackylab.online/
+
 ---
 
-## ⭐ Featured Projects
+# 🚀 Featured Project
 
-### 🤖 Spring AI Fullstack Platform
+## 🤖 Spring AI Fullstack Platform
 
 AI application platform built with **Spring Boot + Vue3**
 
@@ -51,32 +56,45 @@ Features
 * AI Customer Service
 * AI Game Chat
 
-🔗 Backend
+Backend
 https://github.com/Jacky-ZJQ/spring-ai-backend
 
-🔗 Frontend
+Frontend
 https://github.com/Jacky-ZJQ/spring-ai-portal
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 About Me
 
-![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jacky-ZJQ\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky-ZJQ\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jacky-ZJQ\&theme=tokyo-night)
+* 🔭 Building **AI-powered applications**
+* ⚡ Backend developer specialized in **Java / Spring Boot**
+* 🤖 Exploring **LLM, RAG, AI Agents**
+* 🌱 Currently learning **AI system architecture**
 
 ---
 
-## 📫 Contact Me
+# 📊 GitHub Stats
 
-📧 Email: [jianqizhang2020@gmail.com](mailto:jianqizhang2020@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jacky-ZJQ\&show_icons=true\&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky-ZJQ\&layout=compact\&theme=tokyonight)
 
 ---
 
-⭐ If you like my projects, feel free to **star the repository**
+# 🔥 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jacky-ZJQ\&theme=tokyo-night)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Contact
+
+Email: [jianqizhang2020@gmail.com](mailto:jianqizhang2020@gmail.com)
+
+---
+
+⭐ If you like my work, feel free to **star the repositories**
