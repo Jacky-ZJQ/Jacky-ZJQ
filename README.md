@@ -73,12 +73,6 @@ https://github.com/Jacky-ZJQ/spring-ai-portal
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
 # 📫 Contact
 
 Email: [jianqizhang2020@gmail.com](mailto:jianqizhang2020@gmail.com)
