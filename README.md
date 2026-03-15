@@ -1,19 +1,16 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Spring+AI+Developer;LLM+Application+Builder;RAG+Systems+Developer&center=true&width=500&height=45">
-</p>
-
----
-
-# 🧠 System Info
+# 🧠 About Me
 
 ```bash
 name: Jacky Zhang
 role: AI Engineer / Java Backend Developer
 location: Shenzhen
 github: https://github.com/Jacky-ZJQ
-focus: LLM Applications
 stack: Java | Spring Boot | Vue3 | LLM | RAG
 ```
+* 🔭 Building **AI-powered applications**
+* ⚡ Backend developer specialized in **Java / Spring Boot**
+* 🤖 Exploring **LLM, RAG, AI Agents**
+* 🌱 Currently learning **AI system architecture**
 
 ---
 
@@ -61,15 +58,6 @@ https://github.com/Jacky-ZJQ/spring-ai-backend
 
 Frontend
 https://github.com/Jacky-ZJQ/spring-ai-portal
-
----
-
-# 🧠 About Me
-
-* 🔭 Building **AI-powered applications**
-* ⚡ Backend developer specialized in **Java / Spring Boot**
-* 🤖 Exploring **LLM, RAG, AI Agents**
-* 🌱 Currently learning **AI system architecture**
 
 ---
 
